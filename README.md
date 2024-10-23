@@ -5,7 +5,7 @@
 </p>
 
 <h1 align="center">
-Secure Software Development<br>october 2024
+Secure Software Development<br>October 2024
 </h1>
 <br>
 <br>
