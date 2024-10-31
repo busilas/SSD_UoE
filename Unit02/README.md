@@ -7,6 +7,7 @@ Submit of Collaborative Discussion 1 below:
   * PeerResponse1_1: Anda Ziemele
   * PeerResponse1_2: Zukiswa Tuso
   * PeerResponse1_3: Oi Lam Siu
+
 Submit of Seminar Preparation below: 
 - ✅ Seminar Preparation:
   * Table: Scrum agile life cycle and secure software development 
