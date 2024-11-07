@@ -5,4 +5,6 @@
 Submit of Collaborative Discussion 1 below:
 - ✅ Collaborative discussion 1 - Summary Post
 - ✅ Team Activity
-- ✅ Activity
+- ✅ Activity:
+  * Activity - Exploring Python tools and features
+  * Activity - The Producer-Consumer Mechanism
