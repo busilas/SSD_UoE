@@ -33,7 +33,7 @@ Secure Software Development – Computer Science<br>October 2024
 ### [Unit 6](/Unit06/) - [Using Linters to Support Python Testingl](https://www.my-course.co.uk/course/view.php?id=12063&section=12)
 - Seminar Preparation
 
-### [Unit 7](/Unit07/) - [Introduction to Operating Systemsl](https://www.my-course.co.uk/course/view.php?id=12586&section=13)
+### [Unit 7](/Unit07/) - [Introduction to Operating Systems](https://www.my-course.co.uk/course/view.php?id=12586&section=13)
 - e-Portfolio Component
 - Activity
 
