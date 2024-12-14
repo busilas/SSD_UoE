@@ -1,11 +1,11 @@
-# Unit 6: Debugging / Error Handling, Data Structures and Data Search
+# Unit 6: Using Linters to Support Python Testing
 
 ## Description
 
-Submit of e-Portfolio activities below:
-- ✅ Discussion on ways in which data structures support object-oriented development
+Submit of Seminar below:
+- ✅ Seminar Preparation
 
 Submit of the Summative Assessment below:
-- ✅ Development Team Project: Design DocumentAssignment
+- ✅ Development Team Project: Design Document
 
 
