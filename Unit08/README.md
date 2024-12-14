@@ -3,7 +3,7 @@
 ## Description
 
 Submit of Collaborative Discussion 2 below:
-- ✅ Initial Post
+- ✅ Initial Post 2
 
 Submit of Seminar Preparation below: 
 - ✅ Seminar Preparation:
