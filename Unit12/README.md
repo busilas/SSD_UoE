@@ -1,4 +1,4 @@
-# Unit 12: Using Linters to Support Python Testing
+# Unit 12: The Great Tanenbaum-Torvalds Debate Revisited
 
 ## Description
 
