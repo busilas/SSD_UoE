@@ -5,7 +5,7 @@
 Submit of Seminar below:
 - ✅ Seminar Preparation
 
-Submit of the Summative Assessment below:
+Submit of the Summative Assessment 1 below:
 - ✅ Development Team Project: Design Document
 
 
