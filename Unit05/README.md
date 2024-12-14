@@ -2,7 +2,7 @@
 
 ## Description
 
-Submit of Collaborative Discussion 1 below:
+Submit of Activities below:
 - ✅ Activity
 - ✅ e-Portfolio Component
 
