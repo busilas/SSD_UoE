@@ -9,4 +9,4 @@ Submit of E-portfolio Component below:
 - ✅ Faceted Data
 
 Submit of Seminar below:
-- ✅ Seminar Preparation
+- ✅ Seminar Preparation - Company verification API
