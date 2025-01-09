@@ -22,8 +22,8 @@ This is a Flask-based API for managing role-based access control. It includes au
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-repo/role-based-api.git
-   cd role-based-api
+   git clone https://github.com/busilas/SSD_UoE/tree/main/Unit10/company_verification_api
+   cd company_verification_api
    ```
 
 2. **Install dependencies**:
