@@ -3,7 +3,7 @@
 ## Description
 
 Submit of the Summative Assessment 2 below:
-- ✅ Development Individual Project: Coding Output and Evidence of TestingAssignment (secure-retail)
+- ✅ Development Individual Project: Coding Output and Evidence of TestingAssignment (secure_shop)
 
 Submit of Team Activity below:
 - ✅ Faceted Data
