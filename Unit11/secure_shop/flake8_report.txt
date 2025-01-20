@@ -1,0 +1,457 @@
+secureshop.py:9:1: F401 'abc.ABC' imported but unused
+secureshop.py:9:1: F401 'abc.abstractmethod' imported but unused
+secureshop.py:19:1: F401 'smtplib' imported but unused
+secureshop.py:26:1: F401 'sqlalchemy.create_engine' imported but unused
+secureshop.py:26:80: E501 line too long (107 > 79 characters)
+secureshop.py:27:1: F401 'sqlalchemy.ext.declarative.declarative_base' imported but unused
+secureshop.py:28:1: F401 'sqlalchemy.orm.sessionmaker' imported but unused
+secureshop.py:28:1: F401 'sqlalchemy.orm.scoped_session' imported but unused
+secureshop.py:28:80: E501 line too long (80 > 79 characters)
+secureshop.py:30:1: F401 'email.mime.text.MIMEText' imported but unused
+secureshop.py:31:1: F401 'email.mime.multipart.MIMEMultipart' imported but unused
+secureshop.py:34:80: E501 line too long (83 > 79 characters)
+secureshop.py:38:1: F401 'typing.Union' imported but unused
+secureshop.py:41:1: F811 redefinition of unused 'validates' from line 28
+secureshop.py:44:1: F401 'dataclasses.dataclass' imported but unused
+secureshop.py:47:1: E266 too many leading '#' for block comment
+secureshop.py:50:80: E501 line too long (82 > 79 characters)
+secureshop.py:52:80: E501 line too long (95 > 79 characters)
+secureshop.py:63:80: E501 line too long (91 > 79 characters)
+secureshop.py:65:80: E501 line too long (81 > 79 characters)
+secureshop.py:69:80: E501 line too long (84 > 79 characters)
+secureshop.py:89:1: E302 expected 2 blank lines, found 1
+secureshop.py:100:1: E305 expected 2 blank lines after class or function definition, found 1
+secureshop.py:111:80: E501 line too long (80 > 79 characters)
+secureshop.py:114:1: E266 too many leading '#' for block comment
+secureshop.py:117:70: W291 trailing whitespace
+secureshop.py:118:65: W291 trailing whitespace
+secureshop.py:124:1: E302 expected 2 blank lines, found 1
+secureshop.py:133:80: E501 line too long (80 > 79 characters)
+secureshop.py:134:80: E501 line too long (97 > 79 characters)
+secureshop.py:143:80: E501 line too long (86 > 79 characters)
+secureshop.py:146:80: E501 line too long (95 > 79 characters)
+secureshop.py:147:80: E501 line too long (89 > 79 characters)
+secureshop.py:149:80: E501 line too long (98 > 79 characters)
+secureshop.py:150:1: W293 blank line contains whitespace
+secureshop.py:185:1: E302 expected 2 blank lines, found 1
+secureshop.py:190:80: E501 line too long (85 > 79 characters)
+secureshop.py:205:80: E501 line too long (108 > 79 characters)
+secureshop.py:226:80: E501 line too long (81 > 79 characters)
+secureshop.py:231:80: E501 line too long (87 > 79 characters)
+secureshop.py:242:1: E266 too many leading '#' for block comment
+secureshop.py:245:73: W291 trailing whitespace
+secureshop.py:246:71: W291 trailing whitespace
+secureshop.py:249:73: W291 trailing whitespace
+secureshop.py:254:1: E302 expected 2 blank lines, found 1
+secureshop.py:256:76: W291 trailing whitespace
+secureshop.py:267:1: E302 expected 2 blank lines, found 1
+secureshop.py:269:68: W291 trailing whitespace
+secureshop.py:280:1: E302 expected 2 blank lines, found 1
+secureshop.py:292:1: E302 expected 2 blank lines, found 1
+secureshop.py:294:69: W291 trailing whitespace
+secureshop.py:305:1: E302 expected 2 blank lines, found 1
+secureshop.py:307:70: W291 trailing whitespace
+secureshop.py:318:1: E266 too many leading '#' for block comment
+secureshop.py:321:78: W291 trailing whitespace
+secureshop.py:322:79: W291 trailing whitespace
+secureshop.py:323:80: E501 line too long (81 > 79 characters)
+secureshop.py:323:82: W291 trailing whitespace
+secureshop.py:328:1: E302 expected 2 blank lines, found 1
+secureshop.py:381:1: E266 too many leading '#' for block comment
+secureshop.py:384:75: W291 trailing whitespace
+secureshop.py:385:80: E501 line too long (80 > 79 characters)
+secureshop.py:385:81: W291 trailing whitespace
+secureshop.py:386:80: E501 line too long (86 > 79 characters)
+secureshop.py:386:87: W291 trailing whitespace
+secureshop.py:387:80: E501 line too long (87 > 79 characters)
+secureshop.py:391:1: E302 expected 2 blank lines, found 1
+secureshop.py:393:80: E501 line too long (87 > 79 characters)
+secureshop.py:393:88: W291 trailing whitespace
+secureshop.py:405:80: E501 line too long (89 > 79 characters)
+secureshop.py:407:80: E501 line too long (91 > 79 characters)
+secureshop.py:408:80: E501 line too long (91 > 79 characters)
+secureshop.py:422:80: E501 line too long (84 > 79 characters)
+secureshop.py:422:85: W291 trailing whitespace
+secureshop.py:427:80: E501 line too long (97 > 79 characters)
+secureshop.py:431:80: E501 line too long (91 > 79 characters)
+secureshop.py:432:80: E501 line too long (119 > 79 characters)
+secureshop.py:435:80: E501 line too long (88 > 79 characters)
+secureshop.py:436:80: E501 line too long (107 > 79 characters)
+secureshop.py:440:80: E501 line too long (94 > 79 characters)
+secureshop.py:444:80: E501 line too long (82 > 79 characters)
+secureshop.py:449:80: E501 line too long (92 > 79 characters)
+secureshop.py:452:80: E501 line too long (88 > 79 characters)
+secureshop.py:463:77: W291 trailing whitespace
+secureshop.py:468:80: E501 line too long (80 > 79 characters)
+secureshop.py:475:80: E501 line too long (91 > 79 characters)
+secureshop.py:476:80: E501 line too long (91 > 79 characters)
+secureshop.py:489:80: W291 trailing whitespace
+secureshop.py:494:80: E501 line too long (80 > 79 characters)
+secureshop.py:497:80: E501 line too long (85 > 79 characters)
+secureshop.py:498:80: E501 line too long (91 > 79 characters)
+secureshop.py:499:80: E501 line too long (91 > 79 characters)
+secureshop.py:513:80: E501 line too long (90 > 79 characters)
+secureshop.py:513:91: W291 trailing whitespace
+secureshop.py:520:80: E501 line too long (82 > 79 characters)
+secureshop.py:546:80: E501 line too long (85 > 79 characters)
+secureshop.py:547:1: W293 blank line contains whitespace
+secureshop.py:559:1: W293 blank line contains whitespace
+secureshop.py:583:1: E266 too many leading '#' for block comment
+secureshop.py:586:80: E501 line too long (92 > 79 characters)
+secureshop.py:586:93: W291 trailing whitespace
+secureshop.py:587:80: E501 line too long (91 > 79 characters)
+secureshop.py:587:92: W291 trailing whitespace
+secureshop.py:588:80: E501 line too long (86 > 79 characters)
+secureshop.py:588:87: W291 trailing whitespace
+secureshop.py:589:80: E501 line too long (91 > 79 characters)
+secureshop.py:589:92: W291 trailing whitespace
+secureshop.py:593:1: E266 too many leading '#' for block comment
+secureshop.py:594:1: E302 expected 2 blank lines, found 1
+secureshop.py:596:80: E501 line too long (91 > 79 characters)
+secureshop.py:605:80: E501 line too long (81 > 79 characters)
+secureshop.py:651:1: E302 expected 2 blank lines, found 1
+secureshop.py:658:1: E266 too many leading '#' for block comment
+secureshop.py:680:80: E501 line too long (109 > 79 characters)
+secureshop.py:684:80: E501 line too long (80 > 79 characters)
+secureshop.py:707:80: E501 line too long (100 > 79 characters)
+secureshop.py:712:1: E302 expected 2 blank lines, found 1
+secureshop.py:718:1: E305 expected 2 blank lines after class or function definition, found 1
+secureshop.py:720:1: E266 too many leading '#' for block comment
+secureshop.py:721:1: E302 expected 2 blank lines, found 1
+secureshop.py:735:80: E501 line too long (81 > 79 characters)
+secureshop.py:738:80: E501 line too long (82 > 79 characters)
+secureshop.py:756:5: E303 too many blank lines (2)
+secureshop.py:759:1: W293 blank line contains whitespace
+secureshop.py:763:1: W293 blank line contains whitespace
+secureshop.py:765:80: E501 line too long (85 > 79 characters)
+secureshop.py:767:1: W293 blank line contains whitespace
+secureshop.py:769:80: E501 line too long (94 > 79 characters)
+secureshop.py:771:1: W293 blank line contains whitespace
+secureshop.py:773:80: E501 line too long (83 > 79 characters)
+secureshop.py:776:1: W293 blank line contains whitespace
+secureshop.py:787:5: E303 too many blank lines (2)
+secureshop.py:791:1: W293 blank line contains whitespace
+secureshop.py:795:1: W293 blank line contains whitespace
+secureshop.py:807:1: W293 blank line contains whitespace
+secureshop.py:812:1: E302 expected 2 blank lines, found 1
+secureshop.py:819:1: E266 too many leading '#' for block comment
+secureshop.py:832:1: W293 blank line contains whitespace
+secureshop.py:844:1: W293 blank line contains whitespace
+secureshop.py:852:1: E302 expected 2 blank lines, found 1
+secureshop.py:854:80: E501 line too long (80 > 79 characters)
+secureshop.py:858:1: W293 blank line contains whitespace
+secureshop.py:863:80: E501 line too long (86 > 79 characters)
+secureshop.py:864:1: W293 blank line contains whitespace
+secureshop.py:867:80: E501 line too long (85 > 79 characters)
+secureshop.py:868:1: W293 blank line contains whitespace
+secureshop.py:876:1: W293 blank line contains whitespace
+secureshop.py:878:1: W293 blank line contains whitespace
+secureshop.py:889:1: W293 blank line contains whitespace
+secureshop.py:897:1: E266 too many leading '#' for block comment
+secureshop.py:900:80: E501 line too long (88 > 79 characters)
+secureshop.py:900:89: W291 trailing whitespace
+secureshop.py:901:80: E501 line too long (90 > 79 characters)
+secureshop.py:901:91: W291 trailing whitespace
+secureshop.py:902:80: E501 line too long (91 > 79 characters)
+secureshop.py:902:92: W291 trailing whitespace
+secureshop.py:907:1: E302 expected 2 blank lines, found 1
+secureshop.py:910:1: W293 blank line contains whitespace
+secureshop.py:955:1: W293 blank line contains whitespace
+secureshop.py:987:80: E501 line too long (83 > 79 characters)
+secureshop.py:989:80: E501 line too long (83 > 79 characters)
+secureshop.py:993:80: E501 line too long (84 > 79 characters)
+secureshop.py:1014:80: E501 line too long (97 > 79 characters)
+secureshop.py:1015:80: E501 line too long (81 > 79 characters)
+secureshop.py:1038:80: E501 line too long (88 > 79 characters)
+secureshop.py:1053:80: E501 line too long (81 > 79 characters)
+secureshop.py:1089:80: E501 line too long (91 > 79 characters)
+secureshop.py:1144:80: E501 line too long (90 > 79 characters)
+secureshop.py:1160:1: E266 too many leading '#' for block comment
+secureshop.py:1163:79: W291 trailing whitespace
+secureshop.py:1164:80: E501 line too long (85 > 79 characters)
+secureshop.py:1164:86: W291 trailing whitespace
+secureshop.py:1165:80: E501 line too long (89 > 79 characters)
+secureshop.py:1165:90: W291 trailing whitespace
+secureshop.py:1170:1: E302 expected 2 blank lines, found 1
+secureshop.py:1173:1: W293 blank line contains whitespace
+secureshop.py:1178:80: E501 line too long (83 > 79 characters)
+secureshop.py:1182:80: E501 line too long (84 > 79 characters)
+secureshop.py:1189:1: W293 blank line contains whitespace
+secureshop.py:1190:80: E501 line too long (110 > 79 characters)
+secureshop.py:1191:80: E501 line too long (104 > 79 characters)
+secureshop.py:1192:1: W293 blank line contains whitespace
+secureshop.py:1196:1: W293 blank line contains whitespace
+secureshop.py:1198:80: E501 line too long (92 > 79 characters)
+secureshop.py:1199:1: W293 blank line contains whitespace
+secureshop.py:1201:80: E501 line too long (83 > 79 characters)
+secureshop.py:1202:80: E501 line too long (101 > 79 characters)
+secureshop.py:1203:1: W293 blank line contains whitespace
+secureshop.py:1206:80: E501 line too long (111 > 79 characters)
+secureshop.py:1207:1: W293 blank line contains whitespace
+secureshop.py:1208:80: E501 line too long (86 > 79 characters)
+secureshop.py:1210:80: E501 line too long (100 > 79 characters)
+secureshop.py:1211:1: W293 blank line contains whitespace
+secureshop.py:1214:80: E501 line too long (85 > 79 characters)
+secureshop.py:1216:80: E501 line too long (81 > 79 characters)
+secureshop.py:1217:1: W293 blank line contains whitespace
+secureshop.py:1222:1: E302 expected 2 blank lines, found 1
+secureshop.py:1225:1: W293 blank line contains whitespace
+secureshop.py:1232:1: E266 too many leading '#' for block comment
+secureshop.py:1235:80: E501 line too long (99 > 79 characters)
+secureshop.py:1235:100: W291 trailing whitespace
+secureshop.py:1236:80: E501 line too long (97 > 79 characters)
+secureshop.py:1236:98: W291 trailing whitespace
+secureshop.py:1237:80: E501 line too long (104 > 79 characters)
+secureshop.py:1238:80: E501 line too long (103 > 79 characters)
+secureshop.py:1238:104: W291 trailing whitespace
+secureshop.py:1239:80: E501 line too long (109 > 79 characters)
+secureshop.py:1242:1: E302 expected 2 blank lines, found 1
+secureshop.py:1245:80: E501 line too long (100 > 79 characters)
+secureshop.py:1246:1: W293 blank line contains whitespace
+secureshop.py:1247:80: E501 line too long (98 > 79 characters)
+secureshop.py:1248:80: E501 line too long (99 > 79 characters)
+secureshop.py:1250:80: E501 line too long (89 > 79 characters)
+secureshop.py:1251:80: E501 line too long (91 > 79 characters)
+secureshop.py:1253:1: E302 expected 2 blank lines, found 1
+secureshop.py:1256:80: E501 line too long (86 > 79 characters)
+secureshop.py:1257:1: W293 blank line contains whitespace
+secureshop.py:1258:80: E501 line too long (106 > 79 characters)
+secureshop.py:1264:1: E302 expected 2 blank lines, found 1
+secureshop.py:1271:80: E501 line too long (89 > 79 characters)
+secureshop.py:1273:1: E302 expected 2 blank lines, found 1
+secureshop.py:1278:1: W293 blank line contains whitespace
+secureshop.py:1279:80: E501 line too long (103 > 79 characters)
+secureshop.py:1279:104: W291 trailing whitespace
+secureshop.py:1283:80: E501 line too long (92 > 79 characters)
+secureshop.py:1284:80: E501 line too long (101 > 79 characters)
+secureshop.py:1285:80: E501 line too long (99 > 79 characters)
+secureshop.py:1290:1: E302 expected 2 blank lines, found 1
+secureshop.py:1295:1: W293 blank line contains whitespace
+secureshop.py:1296:80: E501 line too long (103 > 79 characters)
+secureshop.py:1302:80: E501 line too long (103 > 79 characters)
+secureshop.py:1307:1: E302 expected 2 blank lines, found 1
+secureshop.py:1312:1: W293 blank line contains whitespace
+secureshop.py:1313:80: E501 line too long (98 > 79 characters)
+secureshop.py:1313:99: W291 trailing whitespace
+secureshop.py:1316:80: E501 line too long (88 > 79 characters)
+secureshop.py:1317:80: E501 line too long (84 > 79 characters)
+secureshop.py:1319:1: E302 expected 2 blank lines, found 1
+secureshop.py:1324:1: W293 blank line contains whitespace
+secureshop.py:1325:80: E501 line too long (101 > 79 characters)
+secureshop.py:1325:102: W291 trailing whitespace
+secureshop.py:1329:80: E501 line too long (82 > 79 characters)
+secureshop.py:1330:80: E501 line too long (92 > 79 characters)
+secureshop.py:1331:80: E501 line too long (110 > 79 characters)
+secureshop.py:1335:1: E302 expected 2 blank lines, found 1
+secureshop.py:1340:1: W293 blank line contains whitespace
+secureshop.py:1341:80: E501 line too long (97 > 79 characters)
+secureshop.py:1341:98: W291 trailing whitespace
+secureshop.py:1345:80: E501 line too long (87 > 79 characters)
+secureshop.py:1347:80: E501 line too long (84 > 79 characters)
+secureshop.py:1348:80: E501 line too long (90 > 79 characters)
+secureshop.py:1349:80: E501 line too long (108 > 79 characters)
+secureshop.py:1353:1: E302 expected 2 blank lines, found 1
+secureshop.py:1358:1: W293 blank line contains whitespace
+secureshop.py:1359:80: E501 line too long (103 > 79 characters)
+secureshop.py:1359:104: W291 trailing whitespace
+secureshop.py:1363:80: E501 line too long (84 > 79 characters)
+secureshop.py:1369:80: E501 line too long (113 > 79 characters)
+secureshop.py:1374:1: E302 expected 2 blank lines, found 1
+secureshop.py:1376:80: E501 line too long (94 > 79 characters)
+secureshop.py:1377:1: W293 blank line contains whitespace
+secureshop.py:1378:80: E501 line too long (103 > 79 characters)
+secureshop.py:1378:104: W291 trailing whitespace
+secureshop.py:1390:80: E501 line too long (111 > 79 characters)
+secureshop.py:1392:1: E302 expected 2 blank lines, found 1
+secureshop.py:1397:1: W293 blank line contains whitespace
+secureshop.py:1401:1: W293 blank line contains whitespace
+secureshop.py:1416:1: E302 expected 2 blank lines, found 1
+secureshop.py:1428:1: E302 expected 2 blank lines, found 1
+secureshop.py:1450:1: E266 too many leading '#' for block comment
+secureshop.py:1453:80: E501 line too long (88 > 79 characters)
+secureshop.py:1453:89: W291 trailing whitespace
+secureshop.py:1454:80: E501 line too long (95 > 79 characters)
+secureshop.py:1454:96: W291 trailing whitespace
+secureshop.py:1455:80: E501 line too long (94 > 79 characters)
+secureshop.py:1455:95: W291 trailing whitespace
+secureshop.py:1456:80: E501 line too long (92 > 79 characters)
+secureshop.py:1456:93: W291 trailing whitespace
+secureshop.py:1460:1: E266 too many leading '#' for block comment
+secureshop.py:1461:1: E302 expected 2 blank lines, found 1
+secureshop.py:1475:80: E501 line too long (80 > 79 characters)
+secureshop.py:1476:80: E501 line too long (87 > 79 characters)
+secureshop.py:1480:80: E501 line too long (90 > 79 characters)
+secureshop.py:1487:80: E501 line too long (93 > 79 characters)
+secureshop.py:1491:80: E501 line too long (83 > 79 characters)
+secureshop.py:1514:80: E501 line too long (93 > 79 characters)
+secureshop.py:1529:80: E501 line too long (84 > 79 characters)
+secureshop.py:1548:80: E501 line too long (95 > 79 characters)
+secureshop.py:1559:80: E501 line too long (95 > 79 characters)
+secureshop.py:1560:80: E501 line too long (103 > 79 characters)
+secureshop.py:1561:80: E501 line too long (95 > 79 characters)
+secureshop.py:1567:80: E501 line too long (91 > 79 characters)
+secureshop.py:1570:80: E501 line too long (98 > 79 characters)
+secureshop.py:1580:80: E501 line too long (108 > 79 characters)
+secureshop.py:1594:80: E501 line too long (86 > 79 characters)
+secureshop.py:1599:80: E501 line too long (99 > 79 characters)
+secureshop.py:1604:80: E501 line too long (96 > 79 characters)
+secureshop.py:1617:80: E501 line too long (91 > 79 characters)
+secureshop.py:1617:92: W291 trailing whitespace
+secureshop.py:1618:79: W291 trailing whitespace
+secureshop.py:1644:1: W293 blank line contains whitespace
+secureshop.py:1645:61: W291 trailing whitespace
+secureshop.py:1646:80: E501 line too long (93 > 79 characters)
+secureshop.py:1647:80: E501 line too long (103 > 79 characters)
+secureshop.py:1648:1: W293 blank line contains whitespace
+secureshop.py:1658:1: W293 blank line contains whitespace
+secureshop.py:1661:80: E501 line too long (91 > 79 characters)
+secureshop.py:1662:80: E501 line too long (87 > 79 characters)
+secureshop.py:1670:80: E501 line too long (104 > 79 characters)
+secureshop.py:1679:80: E501 line too long (102 > 79 characters)
+secureshop.py:1680:1: W293 blank line contains whitespace
+secureshop.py:1681:80: E501 line too long (82 > 79 characters)
+secureshop.py:1682:80: E501 line too long (90 > 79 characters)
+secureshop.py:1683:1: W293 blank line contains whitespace
+secureshop.py:1690:1: W293 blank line contains whitespace
+secureshop.py:1692:80: E501 line too long (107 > 79 characters)
+secureshop.py:1693:80: E501 line too long (112 > 79 characters)
+secureshop.py:1694:80: E501 line too long (144 > 79 characters)
+secureshop.py:1695:1: W293 blank line contains whitespace
+secureshop.py:1701:80: E501 line too long (81 > 79 characters)
+secureshop.py:1703:1: W293 blank line contains whitespace
+secureshop.py:1704:80: E501 line too long (90 > 79 characters)
+secureshop.py:1705:80: E501 line too long (81 > 79 characters)
+secureshop.py:1706:80: E501 line too long (82 > 79 characters)
+secureshop.py:1714:80: E501 line too long (102 > 79 characters)
+secureshop.py:1724:1: W293 blank line contains whitespace
+secureshop.py:1725:80: E501 line too long (84 > 79 characters)
+secureshop.py:1730:1: W293 blank line contains whitespace
+secureshop.py:1731:80: E501 line too long (90 > 79 characters)
+secureshop.py:1733:80: E501 line too long (88 > 79 characters)
+secureshop.py:1735:80: E501 line too long (122 > 79 characters)
+secureshop.py:1737:1: W293 blank line contains whitespace
+secureshop.py:1740:80: E501 line too long (82 > 79 characters)
+secureshop.py:1748:80: E501 line too long (104 > 79 characters)
+secureshop.py:1759:1: W293 blank line contains whitespace
+secureshop.py:1765:1: W293 blank line contains whitespace
+secureshop.py:1767:80: E501 line too long (82 > 79 characters)
+secureshop.py:1771:1: W293 blank line contains whitespace
+secureshop.py:1772:80: E501 line too long (108 > 79 characters)
+secureshop.py:1775:1: W293 blank line contains whitespace
+secureshop.py:1780:1: W293 blank line contains whitespace
+secureshop.py:1789:1: W293 blank line contains whitespace
+secureshop.py:1800:80: E501 line too long (101 > 79 characters)
+secureshop.py:1808:80: E501 line too long (126 > 79 characters)
+secureshop.py:1809:1: W293 blank line contains whitespace
+secureshop.py:1812:1: W293 blank line contains whitespace
+secureshop.py:1820:1: W293 blank line contains whitespace
+secureshop.py:1822:80: E501 line too long (117 > 79 characters)
+secureshop.py:1823:80: E501 line too long (113 > 79 characters)
+secureshop.py:1824:80: E501 line too long (113 > 79 characters)
+secureshop.py:1825:80: E501 line too long (144 > 79 characters)
+secureshop.py:1826:1: W293 blank line contains whitespace
+secureshop.py:1827:80: E501 line too long (83 > 79 characters)
+secureshop.py:1836:1: W293 blank line contains whitespace
+secureshop.py:1837:80: E501 line too long (83 > 79 characters)
+secureshop.py:1838:80: E501 line too long (81 > 79 characters)
+secureshop.py:1846:80: E501 line too long (99 > 79 characters)
+secureshop.py:1857:80: E501 line too long (119 > 79 characters)
+secureshop.py:1858:80: E501 line too long (94 > 79 characters)
+secureshop.py:1862:80: E501 line too long (97 > 79 characters)
+secureshop.py:1870:80: E501 line too long (97 > 79 characters)
+secureshop.py:1871:1: W293 blank line contains whitespace
+secureshop.py:1874:1: W293 blank line contains whitespace
+secureshop.py:1877:80: E501 line too long (104 > 79 characters)
+secureshop.py:1880:1: W293 blank line contains whitespace
+secureshop.py:1890:80: E501 line too long (101 > 79 characters)
+secureshop.py:1896:80: E501 line too long (85 > 79 characters)
+secureshop.py:1899:80: E501 line too long (92 > 79 characters)
+secureshop.py:1903:64: W291 trailing whitespace
+secureshop.py:1904:80: E501 line too long (86 > 79 characters)
+secureshop.py:1915:80: E501 line too long (99 > 79 characters)
+secureshop.py:1929:80: E501 line too long (93 > 79 characters)
+secureshop.py:1957:1: W293 blank line contains whitespace
+secureshop.py:1958:80: E501 line too long (90 > 79 characters)
+secureshop.py:1984:80: E501 line too long (88 > 79 characters)
+secureshop.py:1993:1: W293 blank line contains whitespace
+secureshop.py:1996:80: E501 line too long (87 > 79 characters)
+secureshop.py:1997:80: E501 line too long (102 > 79 characters)
+secureshop.py:2004:80: E501 line too long (101 > 79 characters)
+secureshop.py:2014:1: W293 blank line contains whitespace
+secureshop.py:2018:1: W293 blank line contains whitespace
+secureshop.py:2024:80: E501 line too long (99 > 79 characters)
+secureshop.py:2029:1: W293 blank line contains whitespace
+secureshop.py:2033:1: W293 blank line contains whitespace
+secureshop.py:2036:80: E501 line too long (85 > 79 characters)
+secureshop.py:2040:1: W293 blank line contains whitespace
+secureshop.py:2042:80: E501 line too long (90 > 79 characters)
+secureshop.py:2043:80: E501 line too long (87 > 79 characters)
+secureshop.py:2045:80: E501 line too long (105 > 79 characters)
+secureshop.py:2053:80: E501 line too long (104 > 79 characters)
+secureshop.py:2063:1: W293 blank line contains whitespace
+secureshop.py:2067:1: W293 blank line contains whitespace
+secureshop.py:2069:80: E501 line too long (88 > 79 characters)
+secureshop.py:2072:80: E501 line too long (148 > 79 characters)
+secureshop.py:2073:80: E501 line too long (126 > 79 characters)
+secureshop.py:2077:80: E501 line too long (102 > 79 characters)
+secureshop.py:2087:1: W293 blank line contains whitespace
+secureshop.py:2091:1: W293 blank line contains whitespace
+secureshop.py:2093:80: E501 line too long (81 > 79 characters)
+secureshop.py:2097:80: E501 line too long (105 > 79 characters)
+secureshop.py:2098:80: E501 line too long (84 > 79 characters)
+secureshop.py:2099:80: E501 line too long (129 > 79 characters)
+secureshop.py:2100:1: W293 blank line contains whitespace
+secureshop.py:2102:80: E501 line too long (107 > 79 characters)
+secureshop.py:2106:80: E501 line too long (87 > 79 characters)
+secureshop.py:2112:80: E501 line too long (123 > 79 characters)
+secureshop.py:2118:80: E501 line too long (98 > 79 characters)
+secureshop.py:2128:1: W293 blank line contains whitespace
+secureshop.py:2132:1: W293 blank line contains whitespace
+secureshop.py:2138:80: E501 line too long (84 > 79 characters)
+secureshop.py:2139:80: E501 line too long (86 > 79 characters)
+secureshop.py:2142:80: E501 line too long (80 > 79 characters)
+secureshop.py:2144:1: W293 blank line contains whitespace
+secureshop.py:2148:1: W293 blank line contains whitespace
+secureshop.py:2153:1: W293 blank line contains whitespace
+secureshop.py:2155:80: E501 line too long (80 > 79 characters)
+secureshop.py:2159:1: W293 blank line contains whitespace
+secureshop.py:2161:80: E501 line too long (93 > 79 characters)
+secureshop.py:2162:80: E501 line too long (85 > 79 characters)
+secureshop.py:2164:80: E501 line too long (113 > 79 characters)
+secureshop.py:2169:80: E501 line too long (107 > 79 characters)
+secureshop.py:2174:80: E501 line too long (84 > 79 characters)
+secureshop.py:2185:80: E501 line too long (80 > 79 characters)
+secureshop.py:2190:80: E501 line too long (90 > 79 characters)
+secureshop.py:2214:80: E501 line too long (92 > 79 characters)
+secureshop.py:2215:80: E501 line too long (110 > 79 characters)
+secureshop.py:2218:80: E501 line too long (97 > 79 characters)
+secureshop.py:2219:80: E501 line too long (126 > 79 characters)
+secureshop.py:2230:80: E501 line too long (96 > 79 characters)
+secureshop.py:2231:80: E501 line too long (107 > 79 characters)
+secureshop.py:2234:80: E501 line too long (85 > 79 characters)
+secureshop.py:2243:80: E501 line too long (87 > 79 characters)
+secureshop.py:2248:80: E501 line too long (93 > 79 characters)
+secureshop.py:2249:80: E501 line too long (118 > 79 characters)
+secureshop.py:2251:80: E501 line too long (80 > 79 characters)
+secureshop.py:2259:80: E501 line too long (94 > 79 characters)
+secureshop.py:2270:80: E501 line too long (81 > 79 characters)
+secureshop.py:2291:1: E266 too many leading '#' for block comment
+secureshop.py:2294:80: E501 line too long (95 > 79 characters)
+secureshop.py:2294:96: W291 trailing whitespace
+secureshop.py:2295:80: E501 line too long (96 > 79 characters)
+secureshop.py:2295:97: W291 trailing whitespace
+secureshop.py:2296:80: E501 line too long (90 > 79 characters)
+secureshop.py:2299:1: E266 too many leading '#' for block comment
+secureshop.py:2300:1: E302 expected 2 blank lines, found 1
+secureshop.py:2302:80: E501 line too long (81 > 79 characters)
+secureshop.py:2302:82: W291 trailing whitespace
+secureshop.py:2309:80: E501 line too long (85 > 79 characters)
+secureshop.py:2318:80: E501 line too long (80 > 79 characters)
+secureshop.py:2325:9: E265 block comment should start with '# '
+secureshop.py:2325:80: E501 line too long (100 > 79 characters)
+secureshop.py:2326:53: E261 at least two spaces before inline comment
+secureshop.py:2326:80: E501 line too long (100 > 79 characters)
+secureshop.py:2328:80: E501 line too long (98 > 79 characters)
+secureshop.py:2330:80: E501 line too long (83 > 79 characters)
+secureshop.py:2345:80: E501 line too long (95 > 79 characters)
+secureshop.py:2346:1: E305 expected 2 blank lines after class or function definition, found 1
