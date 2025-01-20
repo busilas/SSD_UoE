@@ -19,7 +19,6 @@ A secure, multi-tenant inventory management system with role-based access contro
 - PostgreSQL/SQLite
 - SMTP Server (for OTP delivery)
 
-!!!!!!!!!!!!!!!!!!!Is kito failo!!!!!!!!!!!!!!!!!
 ## Installation
 
 1. Clone the repository:
