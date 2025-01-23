@@ -83,19 +83,19 @@ The amendments include:
 - Removed unnecessary nesting of the decode block inside the encode block.
 - Encapsulated the logic in a function for better reusability.
 
-## Question 3: Running flake8 on pylintTest.py and metricTest.py **
+## Question 3: Running `flake8` on `pylintTest.py` and `metricTest.py` **
 
-### **Review the errors returned. In what way does this error message differ from the error message returned by pylint?**
-flake8 focuses on style and syntax issues, such as:
+### **Review the errors returned. In what way does this error message differ from the error message returned by `pylint`?**
+`flake8` focuses on style and syntax issues, such as:
 - Missing whitespace around operators.
 - Line length violations.
 - Unused imports.
 - Syntax errors.
 
-Unlike pylint, flake8 does not provide detailed analysis of code structure or logic but is stricter about PEP 8 compliance.
+Unlike `pylint`, `flake8` does not provide detailed analysis of code structure or logic but is stricter about PEP 8 compliance.
 
-### **Run flake8 on metricTest.py. Can you correct each of the errors returned by flake8?**
-The corrected version of metricTest.py is as follows:
+### **Run `flake8` on `metricTest.py`. Can you correct each of the errors returned by `flake8`?**
+The corrected version of `metricTest.py` is as follows:
 
 ```python
 """Module to demonstrate various functions and classes for testing static checkers."""
@@ -169,14 +169,14 @@ Amendments made:
 - Corrected syntax errors (e.g., – to -).
 - Added proper spacing around operators and after commas.
 
-## Question 4: Running mccabe on sums.py and sums2.py **
+## Question 4: Running `mccabe` on `sums.py` and `sums2.py` **
 
-### **Run mccabe on sums.py. What is the result?**
-The result for sums.py shows a cyclomatic complexity of 1, as there is only one function (test_sum) with no conditional logic.
+### **Run `mccabe` on `sums.py`. What is the result?**
+The result for `sums.py` shows a cyclomatic complexity of 1, as there is only one function (`test_sum`) with no conditional logic.
 
-### **Run mccabe on sums2.py. What is the result?**
-The result for sums2.py shows a cyclomatic complexity of 2, as there are two functions (test_sum and test_sum_tuple), each contributing to the complexity.
+### **Run `mccabe` on `sums2.py`. What is the result?**
+The result for `sums2.py` shows a cyclomatic complexity of 2, as there are two functions (`test_sum` and `test_sum_tuple`), each contributing to the complexity.
 
 ### **What are the contributors to the cyclomatic complexity in each piece of code?**
-- In sums.py, the complexity is solely from the test_sum function.
-- In sums2.py, the complexity comes from both test_sum and test_sum_tuple. Each function adds a decision point (the assert statement), increasing the complexity.
+- In `sums.py`, the complexity is solely from the `test_sum` function.
+- In `sums2.py`, the complexity comes from both `test_sum` and `test_sum_tuple`. Each function adds a decision point (the assert statement), increasing the complexity.
