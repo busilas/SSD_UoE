@@ -7,5 +7,6 @@ Submit of Seminar below:
 
 Submit of the Summative Assessment 1 below:
 - ✅ Development Team Project: Design Document
+  * Exploring Linters to Support Testing in Python
 
 
