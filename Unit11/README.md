@@ -8,6 +8,8 @@ Submit of the Summative Assessment 2 below:
   * secure_shop folder (code)
 
 Submit of Team Activity below:
-- ✅ Faceted Data
+- ✅ Debate: Microservices and Microkernels 
+
+
 
 
