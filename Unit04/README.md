@@ -4,4 +4,6 @@
 
 Submit of Seminar below:
 - ✅ Seminar Preparation
+  * Recursion
+  * Regex
 
