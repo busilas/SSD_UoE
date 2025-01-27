@@ -3,8 +3,12 @@
 ## Description
 
 Submit of Activities below:
-- ✅ Activity
-- ✅ e-Portfolio Component
+- ✅ Activities:
+  * Exploring a simple Python shell
+  * Developing an API for a Distributed EnvironmentPage
+
+- ✅ e-Portfolio Component:
+  * What is an Ontology?
 
 
 
